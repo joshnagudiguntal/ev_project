@@ -59,3 +59,21 @@ A trained Machine Learning model capable of predicting:
 
 -The **range** they can travel on a single charge
 
+----------
+
+## 📘 Week-2 Progress
+
+### Task Objective  
+Implement a *Machine Learning model (Linear Regression)* in *Google Colab* to predict Electric Vehicle (EV) prices using the Week-1 dataset.
+
+### Work Completed  
+- Uploaded and loaded the ev_dataset.csv file in Google Colab  
+- Performed *Exploratory Data Analysis (EDA)*  
+- Trained a *Linear Regression model* to predict EV prices  
+- Evaluated results (R² = 0.242 → 24.2%)  
+- Created *Actual vs Predicted Price* visualization  
+- Uploaded the notebook to GitHub  
+
+### File Added  
+📂 *[Week_2_EV_Price_Prediction.ipynb](Week_2_EV_Price_Prediction.ipynb)*  
+(Click above to open the Colab notebook)
